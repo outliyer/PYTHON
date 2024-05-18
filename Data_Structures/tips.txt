@@ -1,0 +1,4 @@
+ctrl+shift+right (to get the orgin of the word)
+ctrl+d(to select the each occurance of the word)
+ctrl +shift+L (to selectall occurance of the word)
+shift+alt to select(to select the multiple lines at atime)
